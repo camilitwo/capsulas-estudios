@@ -17,9 +17,3 @@ El programa realiza las siguientes acciones:
 - Editor de código: IntelliJ IDEA / Visual Studio Code
 - Control de versiones: Git
 - Plataforma de repositorio: GitHub
-
-## 🚀 Cómo Ejecutar el Programa
-
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/tu_usuario/interaccion-usuario.git
